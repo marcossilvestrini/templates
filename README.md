@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
+[![MIT License][license-shield]][license-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <h3 align="center">Templates</h3>
