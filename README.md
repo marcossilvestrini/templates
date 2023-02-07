@@ -188,7 +188,7 @@ Project Link: [https://github.com/marcossilvestrini/templates](https://github.co
 ## Acknowledgments
 
 * [Github Template by othneildrew](https://github.com/othneildrew/Best-README-Template)
-* []()
+* [Git gitignore Templates](https://github.com/github/gitignore)
 * []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
