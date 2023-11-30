@@ -2,7 +2,7 @@
 
 ## [v1.0.0](link_of_tag)
 
-> Release Date: 2022-11-16
+> Release Date: 2023-11-16
 
 :boom: **Enhancement**:
 
@@ -16,6 +16,6 @@
 
 :sweat_drops: **Chore**:
 
-- add topics of exam in README
-- add mindmaps in README
-- add badges in RTEADME
+- add some features
+- fix some bugs
+- update documentation

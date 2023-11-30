@@ -1,0 +1,57 @@
+name: Generate HTML
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  generate_html:
+    name: generate-html
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest]
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - name: Converts Markdown to HTML
+        uses: jaywcjlove/markdown-to-html-cli@main
+        with:
+          source: README.md
+          output: index.html
+          github-corners: https://github.com/marcossilvestrini/${{ github.repository }}
+          favicon: data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>
+    
+      - name: Convert HTML to PDF
+        uses: markwilson/html2pdf@v1.0
+        with:
+          htmlPath: 'index.html'
+          pdfName: '${{ github.repository }}'
+      
+      - name: Commit and Push PDF Book
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git pull --rebase origin main
+          sudo mv dist/${{ github.repository }}.pdf . &&                              
+          git add ${{ github.repository }}.pdf index.html &&
+          git commit -m "Deploy PFD and HTML files" &&
+          git push origin main
+      
+      - name: Upload artifacts        
+        uses: actions/upload-artifact@v3
+        with:
+          name: ${{ github.repository }}
+          path: ./${{ github.repository }}.pdf
+
+      # - name: Download Artefacts
+      #   uses: actions/download-artifact@v3
+      #   with:
+      #     name: right-resume
