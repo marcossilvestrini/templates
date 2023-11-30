@@ -610,4 +610,12 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
 # End of https://www.toptal.com/developers/gitignore/api/linux,windows,c,c++,vagrant,ansible,packer,terraform,ssh,python,ruby,java,node,go,react

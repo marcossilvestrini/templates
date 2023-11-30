@@ -16,8 +16,13 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+[![Create Release](https://github.com/marcossilvestrini/templates/actions/workflows/release.yml/badge.svg)](https://github.com/marcossilvestrini/templates/actions/workflows/release.yml)
+[![Deploy GitHub Pages](https://github.com/marcossilvestrini/templates/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/marcossilvestrini/templates/actions/workflows/jekyll-gh-pages.yml)
+[![Generate HTML](https://github.com/marcossilvestrini/templates/actions/workflows/generate-html.yml/badge.svg)](https://github.com/marcossilvestrini/templates/actions/workflows/generate-html.yml)
+[![Slack Notification](https://github.com/marcossilvestrini/templates/actions/workflows/slack.yml/badge.svg)](https://github.com/marcossilvestrini/templates/actions/workflows/slack.yml)
+
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]v
+[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
@@ -111,24 +116,12 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+Clone the repo
 
-   ```sh
-   git clone https://github.com/marcossilvestrini/templates.git
-   ```
-
-3. Install NPM packages
-
-   ```sh
-   npm install
-   ```
-
-4. Enter your API in `config.js`
-
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+```sh
+git clone https://github.com/marcossilvestrini/templates.git
+cd templates || exit
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,7 +130,6 @@ This is an example of how to list things you need to use the software and how to
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -172,7 +164,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
