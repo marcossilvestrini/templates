@@ -17,7 +17,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Create Release](https://github.com/marcossilvestrini/templates/actions/workflows/release.yml/badge.svg)](https://github.com/marcossilvestrini/templates/actions/workflows/release.yml)
-[![Deploy GitHub Pages](https://github.com/marcossilvestrini/templates/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/marcossilvestrini/templates/actions/workflows/jekyll-gh-pages.yml)
 [![Generate HTML](https://github.com/marcossilvestrini/templates/actions/workflows/generate-html.yml/badge.svg)](https://github.com/marcossilvestrini/templates/actions/workflows/generate-html.yml)
 [![Slack Notification](https://github.com/marcossilvestrini/templates/actions/workflows/slack.yml/badge.svg)](https://github.com/marcossilvestrini/templates/actions/workflows/slack.yml)
 
