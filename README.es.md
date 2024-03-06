@@ -116,7 +116,7 @@ Este es un ejemplo de cómo enumerar los elementos necesarios para utilizar el s
 
 ### Instalación
 
-Clonar el repositorio
+Clone the repo
 
 ```sh
 git clone https://github.com/marcossilvestrini/templates.git
