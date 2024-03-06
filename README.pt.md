@@ -138,22 +138,22 @@ Use este espaço para mostrar exemplos úteis de como um projeto pode ser usado.
 ## Roteiro
 
 -   [ ] Recurso 1
--   [ ] Feature 2
+-   [ ] Recurso 2
 -   [ ] Recurso 3
     -   [ ] Recurso aninhado
 
-See the [questões em aberto](https://github.com/marcossilvestrini/templates/issues)para obter uma lista completa dos recursos propostos (e problemas conhecidos).
+Veja o[questões em aberto](https://github.com/marcossilvestrini/templates/issues)para obter uma lista completa dos recursos propostos (e problemas conhecidos).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
-## Contributing
+## Contribuindo
 
 As contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será**muito apreciado**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Se você tiver uma sugestão que possa melhorar isso, bifurque o repositório e crie uma solicitação pull. Você também pode simplesmente abrir um problema com a tag “aprimoramento”.
+Não se esqueça de dar uma estrela ao projeto! Obrigado novamente!
 
 1.  Bifurque o projeto
 2.  Crie sua ramificação de recursos (`git checkout -b feature/AmazingFeature`)
@@ -175,7 +175,7 @@ Distribuído sob a licença MIT. Ver[`LICENSE`](LICENSE)Para maiores informaçõ
 
 ## Contato
 
-Marcos Silvestrini -[@mrsilvestrini](https://twitter.com/mrsilvestrini) - [marcos.silvestrini@gmail.com](mailto:marcos.silvestrini@gmail.com)
+Marcos Silvestrini -[@mrsilvestrini](https://twitter.com/mrsilvestrini)-[marcos.silvestrini@gmail.com](mailto:marcos.silvestrini@gmail.com)
 
 Link do projeto:<https://github.com/marcossilvestrini/templates>
 
@@ -183,7 +183,7 @@ Link do projeto:<https://github.com/marcossilvestrini/templates>
 
 <!-- ACKNOWLEDGMENTS -->
 
-## Agradecimentos
+## Acknowledgments
 
 -   [GitHub](https://github.com/)
 -   [Modelo Github por othneildrew](https://github.com/othneildrew/Best-README-Template)

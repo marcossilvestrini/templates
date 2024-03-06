@@ -79,7 +79,7 @@
 
 ## 關於該項目
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `marcossilvestrini`,`templates`,`mrsilvestrini`,`marcossilvestrini`,`gmail`,`marcos.silvestrini`,`Templates`,`Project for publish template for all tools and languages`
+這是一個可以開始使用的空白範本：避免重新輸入太多資訊。使用文字編輯器搜尋並取代以下內容：`marcossilvestrini`,`templates`,`mrsilvestrini`,`marcossilvestrini`,`gmail`,`marcos.silvestrini`,`Templates`,`Project for publish template for all tools and languages`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -165,7 +165,7 @@ cd templates || exit
 
 <!-- LICENSE -->
 
-## 執照
+## License
 
 根據 MIT 許可證分發。看[`LICENSE`](LICENSE) for more information.
 

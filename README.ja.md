@@ -83,7 +83,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### で構築
+### Built With
 
 -   [![Github][Github-badge]][Github-url]
 -   [![GNULinux][GNULinux-badge]][GNULinux-url]
@@ -188,7 +188,7 @@ MIT ライセンスに基づいて配布されます。見る[`LICENSE`](LICENSE
 -   [ギットハブ](https://github.com/)
 -   [Github テンプレート by otneildrew](https://github.com/othneildrew/Best-README-Template)
 -   [Git gitignore テンプレート](https://github.com/github/gitignore)
--   [Git Badges](https://github.com/Ileriayo/markdown-badges#usage)
+-   [Git バッジ](https://github.com/Ileriayo/markdown-badges#usage)
 -   [Github ワークフロー](https://docs.github.com/en/actions/using-workflows/about-workflows)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

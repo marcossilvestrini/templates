@@ -159,7 +159,7 @@ cd templates || exit
 2.  قم بإنشاء فرع الميزات الخاص بك (`git checkout -b feature/AmazingFeature`)
 3.  تنفيذ التغييرات (`git commit -m 'Add some AmazingFeature'`)
 4.  ادفع إلى الفرع (`git push origin feature/AmazingFeature`)
-5.  افتح طلب السحب
+5.  Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
