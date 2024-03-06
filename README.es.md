@@ -139,7 +139,7 @@ Utilice este espacio para mostrar ejemplos útiles de cómo se puede utilizar un
 
 -   [ ] Característica 1
 -   [ ] Característica 2
--   [ ] Característica 3
+-   [ ] Feature 3
     -   [ ] Característica anidada
 
 Ver el[problemas abiertos](https://github.com/marcossilvestrini/templates/issues)para obtener una lista completa de las características propuestas (y problemas conocidos).
