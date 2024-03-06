@@ -188,7 +188,7 @@ Link do projeto:<https://github.com/marcossilvestrini/templates>
 -   [GitHub](https://github.com/)
 -   [Modelo Github por othneildrew](https://github.com/othneildrew/Best-README-Template)
 -   [Modelos Git gitignore](https://github.com/github/gitignore)
--   [Git Badges](https://github.com/Ileriayo/markdown-badges#usage)
+-   [Emblemas Git](https://github.com/Ileriayo/markdown-badges#usage)
 -   [Fluxos de trabalho do Github](https://docs.github.com/en/actions/using-workflows/about-workflows)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
