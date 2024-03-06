@@ -79,7 +79,7 @@
 
 ## À propos du projet
 
-Voici un modèle vierge pour commencer : Pour éviter de retaper trop d'informations. Effectuez une recherche et remplacez avec votre éditeur de texte les éléments suivants :`marcossilvestrini`,`templates`,`mrsilvestrini`,`marcossilvestrini`,`gmail`,`marcos.silvestrini`,`Templates`,`Project for publish template for all tools and languages`
+Voici un modèle vierge pour commencer : Pour éviter de retaper trop d'informations. Effectuez une recherche et remplacez avec votre éditeur de texte les éléments suivants :`marcossilvestrini`,`templates`,`mrsilvestrini`, `marcossilvestrini`,`gmail`,`marcos.silvestrini`,`Templates`,`Project for publish template for all tools and languages`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
