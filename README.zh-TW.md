@@ -152,8 +152,8 @@ cd templates || exit
 
 貢獻使開源社群成為學習、啟發和創造的絕佳場所。您所做的任何貢獻都是**不勝感激**.
 
-如果您有更好的建議，請分叉該儲存庫並建立拉取請求。您也可以簡單地使用標籤“增強”來開啟問題。
-不要忘記給該項目一顆星！再次感謝！
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
 
 1.  分叉項目
 2.  建立您的功能分支（`git checkout -b feature/AmazingFeature`)
