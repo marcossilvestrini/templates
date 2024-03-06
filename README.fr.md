@@ -79,7 +79,7 @@
 
 ## À propos du projet
 
-Voici un modèle vierge pour commencer : Pour éviter de retaper trop d'informations. Effectuez une recherche et remplacez avec votre éditeur de texte les éléments suivants :`marcossilvestrini`,`templates`, `mrsilvestrini`,`marcossilvestrini`,`gmail`,`marcos.silvestrini`,`Templates`,`Project for publish template for all tools and languages`
+Voici un modèle vierge pour commencer : Pour éviter de retaper trop d'informations. Effectuez une recherche et remplacez avec votre éditeur de texte les éléments suivants :`marcossilvestrini`,`templates`,`mrsilvestrini`, `marcossilvestrini`,`gmail`,`marcos.silvestrini`,`Templates`,`Project for publish template for all tools and languages`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,7 +142,7 @@ Utilisez cet espace pour montrer des exemples utiles de la façon dont un projet
 -   [ ] Caractéristique 3
     -   [ ] Fonctionnalité imbriquée
 
-See the [questions ouvertes](https://github.com/marcossilvestrini/templates/issues)pour une liste complète des fonctionnalités proposées (et des problèmes connus).
+Voir le[questions ouvertes](https://github.com/marcossilvestrini/templates/issues)pour une liste complète des fonctionnalités proposées (et des problèmes connus).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -155,7 +155,7 @@ Les contributions sont ce qui fait de la communauté open source un endroit si f
 Si vous avez une suggestion pour améliorer les choses, veuillez créer le dépôt et créer une pull request. Vous pouvez aussi simplement ouvrir un ticket avec la balise « amélioration ».
 N'oubliez pas de donner une étoile au projet ! Merci encore!
 
-1.  Forkez le projet
+1.  Fork the Project
 2.  Créez votre branche de fonctionnalités (`git checkout -b feature/AmazingFeature`)
 3.  Validez vos modifications (`git commit -m 'Add some AmazingFeature'`)
 4.  Pousser vers la succursale (`git push origin feature/AmazingFeature`)
