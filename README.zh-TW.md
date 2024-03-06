@@ -165,9 +165,9 @@ cd templates || exit
 
 <!-- LICENSE -->
 
-## License
+## 執照
 
-根據 MIT 許可證分發。看[`LICENSE`](LICENSE) for more information.
+根據 MIT 許可證分發。看[`LICENSE`](LICENSE)了解更多。
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

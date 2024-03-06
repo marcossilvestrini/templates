@@ -83,7 +83,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With
+### で構築
 
 -   [![Github][Github-badge]][Github-url]
 -   [![GNULinux][GNULinux-badge]][GNULinux-url]
@@ -100,7 +100,7 @@
 これは、プロジェクトをローカルでセットアップする手順を示す方法の例です。
 ローカル コピーを起動して実行するには、次の簡単な手順例に従います。
 
-### 前提条件
+### Prerequisites
 
 ソフトウェアを使用するために必要なもののリストとインストール方法の例です。
 
