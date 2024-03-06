@@ -22,8 +22,7 @@
 
 [![Create Release](https://github.com/marcossilvestrini/templates/actions/workflows/release.yml/badge.svg)](https://github.com/marcossilvestrini/templates/actions/workflows/release.yml)[![Generate HTML](https://github.com/marcossilvestrini/templates/actions/workflows/generate-html.yml/badge.svg)](https://github.com/marcossilvestrini/templates/actions/workflows/generate-html.yml)[![Slack Notification](https://github.com/marcossilvestrini/templates/actions/workflows/slack.yml/badge.svg)](https://github.com/marcossilvestrini/templates/actions/workflows/slack.yml)
 
-[![Contributors][contributors-shield]][contributors-url][![Forks][forks-shield]][forks-url][![Stargazers][stars-shield]][stars-url][![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url][![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors][contributors-shield]][contributors-url][![Forks][forks-shield]][forks-url][![Stargazers][stars-shield]][stars-url][![Issues][issues-shield]][issues-url][![MIT License][license-shield]][license-url][![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 
@@ -140,7 +139,7 @@ cd templates || exit
 
 -   [ ] 特徴1
 -   [ ] 特徴2
--   [ ] Feature 3
+-   [ ] 特徴3
     -   [ ] ネストされたフィーチャー
 
 を参照してください。[未解決の問題](https://github.com/marcossilvestrini/templates/issues)提案された機能 (および既知の問題) の完全なリストについては、こちらをご覧ください。
@@ -189,7 +188,7 @@ MIT ライセンスに基づいて配布されます。見る[`LICENSE`](LICENSE
 -   [ギットハブ](https://github.com/)
 -   [Github テンプレート by otneildrew](https://github.com/othneildrew/Best-README-Template)
 -   [Git gitignore テンプレート](https://github.com/github/gitignore)
--   [Git バッジ](https://github.com/Ileriayo/markdown-badges#usage)
+-   [Git Badges](https://github.com/Ileriayo/markdown-badges#usage)
 -   [Github ワークフロー](https://docs.github.com/en/actions/using-workflows/about-workflows)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
