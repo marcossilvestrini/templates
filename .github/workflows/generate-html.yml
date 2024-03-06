@@ -6,7 +6,7 @@ on:
   #   branches:
   #     - main
   workflow_run:
-    workflows: ["Translate README", "Deploy GitHub Pages", "Slack Notification"]
+    workflows: ["Translate README"]
     branches: [main]
     types:
       - completed
