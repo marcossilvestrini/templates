@@ -41,12 +41,14 @@ jobs:
           outputFile: "./${{ steps.repo_name.outputs.name }}.pdf"
           #outputFile: ./learning-kubernetes.pdf          
           pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'          
-      - run: sudo chmod 777 "${{ steps.repo_name.outputs.name }}.pdf"
-      - run: /usr/bin/git config --global user.email "marcos.silvestrini@gmail.com"
-      - run: /usr/bin/git config --global user.name "marcossilvestrini"
-      - run: /usr/bin/git add .
-      - run: /usr/bin/git commit -m "Deploy pdf and html files"
-      - run: /usr/bin/git push origin main
+      - run: |
+          /usr/bin/git pull --rebase origin main
+          sudo chmod 777 "${{ steps.repo_name.outputs.name }}.pdf"          
+          /usr/bin/git config --global user.email "marcos.silvestrini@gmail.com"
+          /usr/bin/git config --global user.name "marcossilvestrini"
+          /usr/bin/git add .
+          /usr/bin/git commit -m "Deploy pdf and html files"
+          /usr/bin/git push origin main
 
       # - name: Convert HTML to PDF
       #   uses: markwilson/html2pdf@v1.0
