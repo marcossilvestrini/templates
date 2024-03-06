@@ -79,7 +79,7 @@
 
 ## Sobre o projeto
 
-Aqui está um modelo em branco para começar: Para evitar redigitar muitas informações. Faça uma pesquisa e substitua pelo seu editor de texto o seguinte:`marcossilvestrini`,`templates`,`mrsilvestrini`,`marcossilvestrini`,`gmail`,`marcos.silvestrini`,`Templates`, `Project for publish template for all tools and languages`
+Aqui está um modelo em branco para começar: Para evitar redigitar muitas informações. Faça uma pesquisa e substitua pelo seu editor de texto o seguinte:`marcossilvestrini`,`templates`,`mrsilvestrini`,`marcossilvestrini`,`gmail`,`marcos.silvestrini`,`Templates`,`Project for publish template for all tools and languages`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,22 +138,22 @@ Use este espaço para mostrar exemplos úteis de como um projeto pode ser usado.
 ## Roteiro
 
 -   [ ] Recurso 1
--   [ ] Recurso 2
+-   [ ] Feature 2
 -   [ ] Recurso 3
     -   [ ] Recurso aninhado
 
-Veja o[questões em aberto](https://github.com/marcossilvestrini/templates/issues)para obter uma lista completa dos recursos propostos (e problemas conhecidos).
+See the [questões em aberto](https://github.com/marcossilvestrini/templates/issues)para obter uma lista completa dos recursos propostos (e problemas conhecidos).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
-## Contribuindo
+## Contributing
 
 As contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será**muito apreciado**.
 
-Se você tiver uma sugestão que possa melhorar isso, bifurque o repositório e crie uma solicitação pull. Você também pode simplesmente abrir um problema com a tag “aprimoramento”.
-Não se esqueça de dar uma estrela ao projeto! Obrigado novamente!
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
 
 1.  Bifurque o projeto
 2.  Crie sua ramificação de recursos (`git checkout -b feature/AmazingFeature`)
