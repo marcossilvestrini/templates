@@ -79,7 +79,7 @@
 
 ## À propos du projet
 
-Voici un modèle vierge pour commencer : Pour éviter de retaper trop d'informations. Effectuez une recherche et remplacez avec votre éditeur de texte les éléments suivants :`marcossilvestrini`,`templates`,`mrsilvestrini`, `marcossilvestrini`,`gmail`,`marcos.silvestrini`,`Templates`,`Project for publish template for all tools and languages`
+Voici un modèle vierge pour commencer : Pour éviter de retaper trop d'informations. Effectuez une recherche et remplacez avec votre éditeur de texte les éléments suivants :`marcossilvestrini`,`templates`, `mrsilvestrini`,`marcossilvestrini`,`gmail`,`marcos.silvestrini`,`Templates`,`Project for publish template for all tools and languages`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,7 +142,7 @@ Utilisez cet espace pour montrer des exemples utiles de la façon dont un projet
 -   [ ] Caractéristique 3
     -   [ ] Fonctionnalité imbriquée
 
-Voir le[questions ouvertes](https://github.com/marcossilvestrini/templates/issues)pour une liste complète des fonctionnalités proposées (et des problèmes connus).
+See the [questions ouvertes](https://github.com/marcossilvestrini/templates/issues)pour une liste complète des fonctionnalités proposées (et des problèmes connus).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
